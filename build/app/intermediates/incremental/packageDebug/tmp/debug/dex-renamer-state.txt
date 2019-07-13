@@ -1,0 +1,4 @@
+#Mon May 27 04:03:40 ICT 2019
+base.0=D\:\\flutterproject\\flutteragain\\Grocery-App-master\\appppkwh\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
